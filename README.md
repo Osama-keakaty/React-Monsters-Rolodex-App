@@ -37,4 +37,4 @@ Before you begin, please ensure you have [Node.js](https://nodejs.org/) installe
 1. Clone the repository:  
 
    ```bash  
-   git clone https://github.com/yourusername/React-Monsters-Rolodex-App.git
+   git clone https://github.com/Osama-keakaty/React-Monsters-Rolodex-App.git
